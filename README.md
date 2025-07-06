@@ -53,6 +53,7 @@ Welcome to my GitHub profile!
  A curated collection of Python scripts and applications, demonstrating best practices and modern techniques:
  
 - [**Django + Three.js Solar system**](https://github.com/SvetozarP/AISolarSystemWithClaude)
+- [**Django + Three.js Solar system - more comprehensive version**](https://github.com/SvetozarP/CompleteSolarSystem)
 - [**Jedi Hunter Task list**](https://github.com/SvetozarP/AIJediHunterTaskList)
 - [**Archery Club Management app**](https://github.com/SvetozarP/ClubManagementApp)
 
