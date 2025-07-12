@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Svetozar Petrov
+# 👋 Hi, I'm Svetozar Panov
 
 Welcome to my GitHub profile!
 
