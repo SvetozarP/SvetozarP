@@ -1,79 +1,113 @@
-# 👋 Hi, I'm Svetozar Panov
+# 👋 Hi, I'm Svetozar
 
-Welcome to my GitHub profile!
+Full Stack Python Developer | SoftUni Graduate | Lifelong Learner
 
----
+I'm passionate about creating innovative solutions and continuously expanding my knowledge in various technologies. With a strong foundation in Python development and a keen interest in modern web technologies, I enjoy building interactive and efficient applications.
 
-## 🚀 About Me
+## 🚀 Featured Projects
 
-- 🎓 **SoftUni Graduate** — Full Stack Developer, specialized in **Python**  
-- 💡 Passionate about building robust, scalable, and elegant solutions  
-- 🌱 Always learning new technologies and best practices  
-- 🛠️ Love working on both backend and frontend, with a strong focus on clean code and well-architected systems
+### [Recipe Share Platform](https://github.com/SvetozarP/RecipeSharePlatform)
+A full-stack recipe sharing and management platform combining modern technologies
+- **Frontend**: Built with Angular, offering a responsive and dynamic user interface
+- **Backend**: Powered by Django REST Framework for robust API endpoints
+- **Database**: PostgreSQL for reliable data persistence and complex queries
+- **Features**:
+  - User authentication and authorization
+  - Recipe creation, editing, and sharing
+  - Recipe categorization and search functionality
+  - User profiles and recipe collections
+  - Interactive recipe rating and commenting system
 
----
+### [Complete Solar System](https://github.com/SvetozarP/CompleteSolarSystem)
+An interactive 3D visualization project showcasing the solar system using Three.js
+- Implemented complex 3D animations and interactions
+- Experimented with advanced Three.js features
+- Created an immersive user experience with realistic planetary movements
 
-## 🧰 Tech Stack
+### [Archery Management](https://github.com/SvetozarP/ArcheryManagement)
+A comprehensive management system for archery clubs and events
+- Built with modern Python practices
+- Streamlined archery club operations and event management
+- Implemented efficient data organization and tracking features
 
-- **Languages:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+### [AI Jedi Hunter Task List](https://github.com/SvetozarP/AIJediHunterTaskList)
+A unique task management application developed using Claude AI
+- Integrated AI capabilities for enhanced functionality
+- Explored the capabilities of AI to deliver code
+- Demonstrated practical application of AI in web development
 
-- **Frameworks & Libraries:**  
-  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+### [Django HTMX Movies App](https://github.com/SvetozarP/DjangoHTMXMoviesApp)
+A dynamic movie application showcasing modern web development practices
+- Integrated HTMX with Django for smooth, interactive user experiences
+- Implemented responsive design principles
+- Built following industry best practices and the tutorials from BugBytes
 
-- **Databases:**  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+### [Cyber Security Writeups](https://github.com/SvetozarP/CyberSecurityWriteups)
+A collection of detailed cybersecurity training documentation and analyses
+- Documented various security concepts and practices
+- Shared practical insights from hands-on training
+- Contributed to the security community through knowledge sharing
 
-- **Tools & Platforms:**  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)  
-  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+## 💻 Technical Skills
 
----
-
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SvetozarP&show_icons=true&count_private=true&theme=github_dark" alt="SvetozarP's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvetozarP&layout=compact&theme=github_dark" alt="Top Langs" height="150" />
+### 🔤 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
+### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-## 📂 Featured Repositories
+### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_Templates-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+</p>
 
-<!-- Pin and showcase some of your top repositories below -->
- A curated collection of Python scripts and applications, demonstrating best practices and modern techniques:
- 
-- [**Django + Three.js Solar system**](https://github.com/SvetozarP/AISolarSystemWithClaude)
-- [**Django + Three.js Solar system - more comprehensive version**](https://github.com/SvetozarP/CompleteSolarSystem)
-- [**Jedi Hunter Task list**](https://github.com/SvetozarP/AIJediHunterTaskList)
-- [**Archery Club Management app**](https://github.com/SvetozarP/ClubManagementApp)
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-I also enjoy Penetration testing and Offensive Security. Some writeups below:
+### 🚀 DevOps & CI/CD
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-- [**Cyber Security Writeups**](https://github.com/SvetozarP/CyberSecurityWriteups)
+### 🛠️ Other Skills
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Integration-4B0082?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+</p>
 
+## 🌱 Current Focus
 
-
----
+- Expanding knowledge in modern web technologies
+- Exploring AI integration in web applications
+- Enhancing cybersecurity expertise
+- Contributing to open-source projects
+- Optimizing CI/CD pipelines
 
 ## 📫 Let's Connect
 
-- Svetozar Panov @ Facebook.
+Feel free to reach out for collaborations or discussions about technology and development!
+
+[GitHub Profile](https://github.com/SvetozarP)
 
 ---
-
-_Thanks for stopping by! Let's build something amazing together._
-
-<!---
-SvetozarP/SvetozarP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
